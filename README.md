@@ -7,7 +7,6 @@ A responsive, scroll-based personal portfolio built with plain HTML, CSS and Jav
 - `style.css` — layout, typography, colours and responsive styles
 - `script.js` — accordion interactions, mobile navigation and scroll reveals
 - `assets/leny-portrait.jpg` — supplied professional portrait
-- `assets/Ling-Leny-Liu-Resume.pdf` — resume PDF
 
 ## Publish on GitHub Pages
 1. Create a **public** repository named exactly `LenyLLL.github.io` in the GitHub account `LenyLLL`.
@@ -17,9 +16,9 @@ A responsive, scroll-based personal portfolio built with plain HTML, CSS and Jav
 5. Wait for the deployment to finish. The site should be available at `https://lenylll.github.io/`.
 
 ## Update later
-Edit `index.html` for copy/content, `style.css` for visual styling, and `script.js` for interactions. Replace the resume PDF in `assets/` when you update your CV.
+Edit `index.html` for copy/content, `style.css` for visual styling, and `script.js` for interactions. The resume PDF is intentionally not included or hosted. The page invites recruiters to request it by email.
 
 ## Notes
 - The page uses Google Fonts when internet access is available and falls back to system fonts otherwise.
 - All core page interactions work without a backend.
-- Review the resume PDF before publishing if you want to remove personal details from the public copy.
+- The resume PDF is intentionally excluded from the public website repository.
